@@ -3,6 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmistcloudy&count_bg=%2333BADD&title_bg=%233347DF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![mistcloudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistcloudy&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistcloudy&layout=compact&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yjh6487)](https://solved.ac/yjh6487)
 
