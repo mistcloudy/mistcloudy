@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mistcloudy&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=yjh6487)](https://solved.ac/yjh6487)
+profile](http://mazassumnida.wtf/api/generate_badge?boj=yjh6487)](https://solved.ac/yjh6487)
 
 # Skills
 ### Platforms & Language 
